@@ -6,6 +6,8 @@
 
 
 ![pedroribeirojp GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroribeirojp&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroribeirojp)](https://github.com/pedroribeirojp/github-readme-stats)
+
 
 
 ## Tecnologias que eu uso no meu dia 
@@ -18,3 +20,5 @@
  
  
  Sou um jovem apaixonado por tecnologia, leitor de HQs nas horas vagas e acredito que a programação pode mudar o mundo em que vivemos.
+
+
