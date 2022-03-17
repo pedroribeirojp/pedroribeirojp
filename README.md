@@ -18,6 +18,6 @@
  </div><br/>
  
  
- Sou um jovem apaixonado por tecnologia, leitor de HQs nas horas vagas e acredito que a programação pode mudar o mundo em que vivemos.
+ Sou um jovem apaixonado por tecnologia, entusiasta em novas tecnologias e acredito que a programação pode mudar o mundo em que vivemos.
 
 
