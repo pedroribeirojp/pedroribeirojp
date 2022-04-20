@@ -12,13 +12,13 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Pedro Ribeiro! Recife - 🇧🇷
+Olá, eu sou o Pedro Ribeiro! 
 <br>
 
 </h3>
 
 ```
-Estudante de Desenvolvimento Web Front-End, sou um entusianta em novas tecnologias e atualmente tenho me empenhado a me tornar um dev front-end e alcançar minha primeira oportunidade no mercado Tech(programação).
+Estudante de Desenvolvimento Web Front-End, sou um entusianta em novas tecnologias e atualmente tenho  me empenhado a me tornar um dev front-end e alcançar minha primeira oportunidade no mercado Tech(programação).
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
