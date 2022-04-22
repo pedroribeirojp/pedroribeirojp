@@ -17,9 +17,11 @@ Olá, eu sou o Pedro Ribeiro!
 
 </h3>
 
+<h5>
 ```
 Estudante de Desenvolvimento Web Front-End, sou um entusianta em novas tecnologias e atualmente tenho  me empenhado a me tornar um dev front-end e alcançar minha primeira oportunidade no mercado Tech(programação).
 ```
+ </h5>
 ## Tecnologias que estou estudando atualmente 💻
 
   - HTML
